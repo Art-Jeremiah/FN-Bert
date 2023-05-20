@@ -1,0 +1,15 @@
+./out/uer_large_wd_crf/checkpoint-612/model.pt
+./out/roberta_wwm_large_wd_crf/checkpoint-408/model.pt
+./out/uer_large_wd_crf/checkpoint-612/model.pt
+./out/uer_large_wd_crf/checkpoint-612/model.pt
+./out/uer_large_wd_crf/checkpoint-612/model.pt
+./out/uer_large_wd_crf/checkpoint-399/model.pt
+./out/uer_large_wd_crf/checkpoint-612/model.pt
+./out/uer_large_wd_crf/checkpoint-399/model.pt
+./out/roberta_wwm_large_wd_crf/checkpoint-399/model.pt
+./out/roberta_wwm_large_wd_crf/checkpoint-408/model.pt
+./out/uer_large_wd_crf/checkpoint-802/model.pt
+./out/uer_large_wd_crf/checkpoint-864/model.pt
+./out/uer_large_wd_ls_ce_span/checkpoint-1632/model.pt
+./out/bert_wwm_wd_crf/checkpoint-1020/model.pt
+./out/bert_wwm_wd_crf/checkpoint-1020/model.pt
